@@ -1,0 +1,19 @@
+{
+  "name": "tp5_web_ocres",
+  "version": "1.0.0",
+  "description": "A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remyghidaglia/TP5_WEB_OCRES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remyghidaglia/TP5_WEB_OCRES/issues"
+  },
+  "homepage": "https://github.com/remyghidaglia/TP5_WEB_OCRES#readme"
+}
