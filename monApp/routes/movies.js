@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var _ = require('underscore');
+var _ = require('lodash');
 
 let movies = [{
   id: "0",
